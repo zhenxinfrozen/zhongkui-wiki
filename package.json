@@ -1,0 +1,24 @@
+{
+  "name": "zhongkui-wiki",
+  "version": "0.1.0",
+  "private": true,
+  "description": "钟馗wiki - 中国神话钟馗主题的开源网站",
+  "author": "颓废动画人 <https://rzx.me>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhenxinfrozen/zhongkui-wiki"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.1",
+    "vite": "^5.0.0"
+  },
+  "license": "MIT"
+}
